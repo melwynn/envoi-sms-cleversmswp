@@ -1,4 +1,5 @@
-﻿=== Envoi-sms-cleversmsWP ===
+https://melwynn-rodriguez.fr
+=== Envoi-sms-cleversmsWP ===
 Contributors: Clever Technologies
 Donate link: http://www.clever.fr/
 Tags: sms, envoi de sms, sms long,  alerte sms, notification sms, envoi de sms en masse, campagne sms,  sms personnalisé, SMS URL, SMS wordpress
